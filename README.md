@@ -1,2 +1,2 @@
-# The-Widget-collection
-A collection of very basic Dart widgets for Flutter apps
+# better-NSFW-detection
+A collection of NSFW images/text detectors that when linked together create a super filter
